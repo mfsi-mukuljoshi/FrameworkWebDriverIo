@@ -28,4 +28,4 @@ jobs:
       run: chmod +x ./node_modules/.bin/wdio
 
     - name: Run WebDriverIO Tests
-      run: npx wdio run .\wdio.conf.js
+      run: npm wdio run
