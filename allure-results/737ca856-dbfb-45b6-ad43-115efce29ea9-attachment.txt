@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//input[@class='oxd-input oxd-input--active orangehrm-firstname']"
+}

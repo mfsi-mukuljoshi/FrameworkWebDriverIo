@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[@class=\"oxd-select-option\"]/span[text()=\"Single\"]"
+}

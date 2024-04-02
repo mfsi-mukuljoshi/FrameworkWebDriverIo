@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//label[text()=\"License Expiry Date\"]/following::div/input"
+}
